@@ -85,7 +85,7 @@ var Index = function Index() {
 
 /***/ }),
 
-/***/ 2:
+/***/ 0:
 /*!**************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=E%3A%5CNextJs%5Cfirst-next%5Cpages%5Cindex.js ***!
   \**************************************************************************************************************/
@@ -108,5 +108,5 @@ module.exports = dll_1aef2d0bbc0d334d831c;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[0,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
